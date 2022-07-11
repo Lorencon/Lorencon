@@ -15,7 +15,7 @@
 - 🧐 Já atuei como helpdesk, administração de servidores, manutenção de infraestrutura de redes, controle de firewall Sophos.
 - 🚀 Fui efetivada como Analista Jr para controle do Sistemas ERP da empresa.
 - 📫 Contato: 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](www.linkedin.com/in/sarah-lorençon-976651204)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/sarah-loren%C3%A7on-976651204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bk%2BGCH8RzQX6FXUoTuA2ftw%3D%3D)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lorencon.sarah/) 
 <a target="_blank" href="mailto:sarahlorencon@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
